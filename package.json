@@ -1,0 +1,22 @@
+{
+  "name": "connecting_js_to_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waff1e/w4d2-javascriptConnPostgres.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waff1e/w4d2-javascriptConnPostgres/issues"
+  },
+  "homepage": "https://github.com/waff1e/w4d2-javascriptConnPostgres#readme",
+  "dependencies": {
+    "pg": "^6.3.0"
+  }
+}
