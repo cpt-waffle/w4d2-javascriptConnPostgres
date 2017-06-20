@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/waff1e/w4d2-javascriptConnPostgres#readme",
   "dependencies": {
-    "pg": "^6.3.0"
+    "knex": "^0.13.0",
+    "pg": "^6.3.1",
+    "pq": "0.0.3"
   }
 }
